@@ -113,11 +113,18 @@ The Excel dashboard provides an interactive visualization environment where user
 
 ## 🖥️ Dashboard Preview
 
+### 📊 Bike Sales Pivot Tables
+<img width="1303" height="564" alt="Screenshot 2025-10-24 230302" src="https://github.com/user-attachments/assets/6f0ca4d1-c3f3-40d7-9c21-fa59a31f79d2" />
+
+
+
 ### 📊 Bike Sales Dashboard
-![Bike Sales Dashboard]("C:\Users\gadis\OneDrive\Pictures\Screenshots\Screenshot 2025-10-24 231448.png")
+<img width="1202" height="415" alt="Screenshot 2025-10-24 231448" src="https://github.com/user-attachments/assets/80f4cab5-6809-4268-869b-15947829cbe1" />
+
+
 
 ### 📋 Clean Dataset Sample
-![Clean Data Sample]("C:\Users\gadis\OneDrive\Pictures\Screenshots\Screenshot 2025-10-24 230312.jpg")
+<img width="1262" height="544" alt="Screenshot 2025-10-24 230312" src="https://github.com/user-attachments/assets/3fccc868-8d36-4d8f-83a9-aa037428de3a" />
 
 
 ---
