@@ -4,8 +4,6 @@
 The **Bike Sales Dashboard** is a data analytics project built in **Microsoft Excel** to explore and visualize customer purchasing behavior.  
 The goal was to identify how **demographic and lifestyle factors**—such as income, age, education, and commute distance—affect the likelihood of **purchasing a bike**.
 
-This project demonstrates strong skills in **data cleaning, transformation, pivot analysis, and dashboard design** to extract actionable business insights.
-
 ---
 
 ##  Table of Contents
